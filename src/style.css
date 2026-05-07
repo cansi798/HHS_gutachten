@@ -246,7 +246,7 @@ button {
 }
 
 .contact-grid {
-  @apply grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-[1fr_1fr_1fr_1.1fr];
+  @apply grid grid-cols-1 gap-5 md:grid-cols-3;
 }
 
 .contact-card {

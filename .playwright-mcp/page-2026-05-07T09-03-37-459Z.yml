@@ -1,0 +1,265 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "HHS-Gutachten Logo HHS-Gutachten" [ref=e4] [cursor=pointer]:
+        - /url: "#top"
+        - img "HHS-Gutachten Logo" [ref=e5]
+        - generic [ref=e6]: HHS-Gutachten
+      - generic [ref=e7]:
+        - link "040 30981087" [ref=e8] [cursor=pointer]:
+          - /url: tel:+494030981087
+          - img [ref=e9]
+          - generic [ref=e11]: 040 30981087
+        - button "Menü öffnen" [ref=e12]:
+          - generic [ref=e13]: Menü öffnen
+          - img [ref=e14]
+  - main [ref=e16]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Unabhängiger Sachverständiger in Hamburg, Schleswig-Holstein und Niedersachsen
+        - heading "Unfall gehabt? Wir sichern Ihre Ansprüche." [level=1] [ref=e22]:
+          - text: Unfall gehabt?
+          - text: Wir sichern Ihre Ansprüche.
+        - paragraph [ref=e23]: Als unabhängiger Sachverständiger erstellen wir professionelle Schadengutachten, sichern Beweise und unterstützen Sie bei der Durchsetzung Ihrer Ansprüche gegenüber der Versicherung.
+        - generic [ref=e24]:
+          - link "Jetzt Kontakt aufnehmen" [ref=e25] [cursor=pointer]:
+            - /url: "#kontakt"
+            - img [ref=e26]
+            - text: Jetzt Kontakt aufnehmen
+          - link "Kostenlose Beratung" [ref=e28] [cursor=pointer]:
+            - /url: "#kontakt"
+            - img [ref=e29]
+            - text: Kostenlose Beratung
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e35]:
+              - img [ref=e36]
+              - img [ref=e38]
+              - img [ref=e40]
+              - img [ref=e42]
+              - img [ref=e44]
+            - generic [ref=e46]:
+              - paragraph [ref=e47]: 4,9/5 Sterne
+              - paragraph [ref=e48]: aus über 250 Bewertungen
+          - generic [ref=e49]:
+            - img [ref=e51]
+            - generic [ref=e53]:
+              - paragraph [ref=e54]: Schnelle Hilfe
+              - paragraph [ref=e55]: oft innerhalb 24h vor Ort
+          - generic [ref=e56]:
+            - img [ref=e58]
+            - generic [ref=e61]:
+              - paragraph [ref=e62]: 100 % Unabhängig
+              - paragraph [ref=e63]: für Ihre Interessen im Einsatz
+      - img "Unfallfahrzeuge zur Begutachtung" [ref=e65]
+    - generic [ref=e68]:
+      - article [ref=e69]:
+        - img [ref=e71]
+        - heading "Unabhängige Schadengutachten" [level=2] [ref=e74]
+        - paragraph [ref=e75]: Neutrale und objektive Bewertung Ihres Schadens - recherchiert und anerkannt von Versicherungen und Gerichten.
+      - article [ref=e76]:
+        - img [ref=e78]
+        - heading "Schnelle Hilfe am Unfallort" [level=2] [ref=e82]
+        - paragraph [ref=e83]: Wir sind zügig für Sie da. Aufnahme vor Ort, Beweissicherung und schnelle Bearbeitung - zuverlässig und effizient.
+      - article [ref=e84]:
+        - img [ref=e86]
+        - heading "Beweissicherung & Dokumentation" [level=2] [ref=e89]
+        - paragraph [ref=e90]: Detaillierte Fotos, Messungen und Protokolle - für eine lückenlose und belastbare Schadendokumentation.
+      - article [ref=e91]:
+        - img [ref=e93]
+        - heading "Direkte Unterstützung bei der Versicherung" [level=2] [ref=e96]
+        - paragraph [ref=e97]: Wir übernehmen die Kommunikation mit der Versicherung und setzen Ihre Ansprüche konsequent für Sie durch.
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - paragraph [ref=e101]: Unsere Leistungen
+        - heading "Kompetente Gutachten. Klare Ergebnisse." [level=2] [ref=e102]
+      - generic [ref=e103]:
+        - link "Unfallgutachten Umfassende Analyse des Unfallschadens zur Ermittlung der vollständigen Schadenshöhe." [ref=e104] [cursor=pointer]:
+          - /url: "#kontakt"
+          - img [ref=e106]
+          - generic [ref=e110]:
+            - heading "Unfallgutachten" [level=3] [ref=e111]
+            - paragraph [ref=e112]: Umfassende Analyse des Unfallschadens zur Ermittlung der vollständigen Schadenshöhe.
+          - img [ref=e113]
+        - link "Schadengutachten Detaillierte Bewertung von Fahrzeugschäden - technisch fundiert und rechtssicher." [ref=e115] [cursor=pointer]:
+          - /url: "#kontakt"
+          - img [ref=e117]
+          - generic [ref=e120]:
+            - heading "Schadengutachten" [level=3] [ref=e121]
+            - paragraph [ref=e122]: Detaillierte Bewertung von Fahrzeugschäden - technisch fundiert und rechtssicher.
+          - img [ref=e123]
+        - link "Kostenvoranschläge Transparente Kalkulation der Reparaturkosten - verständlich und nachvollziehbar." [ref=e125] [cursor=pointer]:
+          - /url: "#kontakt"
+          - img [ref=e127]
+          - generic [ref=e130]:
+            - heading "Kostenvoranschläge" [level=3] [ref=e131]
+            - paragraph [ref=e132]: Transparente Kalkulation der Reparaturkosten - verständlich und nachvollziehbar.
+          - img [ref=e133]
+        - link "Oldtimergutachten Marktgerechte Bewertung von Oldtimern und klassischen Fahrzeugen." [ref=e135] [cursor=pointer]:
+          - /url: "#kontakt"
+          - img [ref=e137]
+          - generic [ref=e142]:
+            - heading "Oldtimergutachten" [level=3] [ref=e143]
+            - paragraph [ref=e144]: Marktgerechte Bewertung von Oldtimern und klassischen Fahrzeugen.
+          - img [ref=e145]
+        - link "Beweissicherung Sicherung von Spuren, Schäden und relevanten Details für Ihre Ansprüche." [ref=e147] [cursor=pointer]:
+          - /url: "#kontakt"
+          - img [ref=e149]
+          - generic [ref=e152]:
+            - heading "Beweissicherung" [level=3] [ref=e153]
+            - paragraph [ref=e154]: Sicherung von Spuren, Schäden und relevanten Details für Ihre Ansprüche.
+          - img [ref=e155]
+        - link "Unterstützung im Schadensfall Begleitung im gesamten Prozess - von der Schadenmeldung bis zur Regulierung." [ref=e157] [cursor=pointer]:
+          - /url: "#kontakt"
+          - img [ref=e159]
+          - generic [ref=e162]:
+            - heading "Unterstützung im Schadensfall" [level=3] [ref=e163]
+            - paragraph [ref=e164]: Begleitung im gesamten Prozess - von der Schadenmeldung bis zur Regulierung.
+          - img [ref=e165]
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - paragraph [ref=e171]: So einfach geht's
+        - heading "Unser Ablauf - in 4 klaren Schritten" [level=2] [ref=e172]
+      - list [ref=e175]:
+        - listitem [ref=e176]:
+          - generic [ref=e177]:
+            - img [ref=e178]
+            - generic [ref=e180]: "1"
+          - heading "Unfall melden" [level=3] [ref=e181]
+          - paragraph [ref=e182]: Kontaktieren Sie uns direkt nach dem Unfall - telefonisch oder per WhatsApp.
+        - listitem [ref=e183]:
+          - generic [ref=e184]:
+            - img [ref=e185]
+            - generic [ref=e189]: "2"
+          - heading "Fahrzeug begutachten" [level=3] [ref=e190]
+          - paragraph [ref=e191]: Wir kommen vor Ort, sichern den Schaden und erstellen ein professionelles Gutachten.
+        - listitem [ref=e192]:
+          - generic [ref=e193]:
+            - img [ref=e194]
+            - generic [ref=e197]: "3"
+          - heading "Gutachten erhalten" [level=3] [ref=e198]
+          - paragraph [ref=e199]: Sie erhalten von uns ein unabhängiges Gutachten mit allen relevanten Fakten.
+        - listitem [ref=e200]:
+          - generic [ref=e201]:
+            - img [ref=e202]
+            - generic [ref=e205]: "4"
+          - heading "Regulierung begleiten" [level=3] [ref=e206]
+          - paragraph [ref=e207]: Wir unterstützen Sie bei der Kommunikation mit der Versicherung und Ihren Ansprüchen.
+    - generic [ref=e210]:
+      - img "Sachverständiger erstellt einen Schadensbericht am Tablet" [ref=e212]
+      - generic [ref=e213]:
+        - paragraph [ref=e214]: Erfahrung. Unabhängigkeit. Vertrauen.
+        - heading "Ihr unabhängiger Sachverständiger in Hamburg, Schleswig-Holstein und Niedersachsen" [level=2] [ref=e215]
+        - paragraph [ref=e216]: HHS-Gutachten steht für unabhängige, professionelle und schnelle Schadengutachten. Wir sind Ihr verlässlicher Partner nach einem Unfall - kompetent, engagiert und an Ihrer Seite.
+        - generic [ref=e217]:
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - img [ref=e220]
+              - generic [ref=e223]: 10+
+            - paragraph [ref=e224]: Jahre Erfahrung
+          - generic [ref=e225]:
+            - generic [ref=e226]:
+              - img
+              - generic [ref=e229]: 1.000+
+            - paragraph [ref=e230]: Gutachten erstellt
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - img [ref=e233]
+              - generic [ref=e236]: 24h
+            - paragraph [ref=e237]: Schnelle Termine
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - img
+              - generic [ref=e241]: 100%
+            - paragraph [ref=e242]: Für Ihre Ansprüche
+    - generic [ref=e245]:
+      - generic [ref=e247]:
+        - img [ref=e249]
+        - generic [ref=e251]:
+          - link "040 30981087" [ref=e252] [cursor=pointer]:
+            - /url: tel:+494030981087
+          - paragraph [ref=e253]: 24/7 per WhatsApp
+          - paragraph [ref=e254]: "Mo - Fr: 08:00 - 20:00 Uhr"
+          - paragraph [ref=e255]: "Sa: 09:00 - 16:00 Uhr"
+      - generic [ref=e257]:
+        - img [ref=e259]
+        - generic [ref=e262]:
+          - link "info@hhs-gutachten.de" [ref=e263] [cursor=pointer]:
+            - /url: mailto:info@hhs-gutachten.de
+          - paragraph [ref=e264]: Wir antworten schnell - meist noch am selben Tag.
+      - generic [ref=e266]:
+        - img [ref=e268]
+        - generic [ref=e271]:
+          - paragraph [ref=e272]: Am Grüppental 17
+          - paragraph [ref=e273]: 21039 Escheburg
+          - paragraph [ref=e274]: Ihr Standort in Hamburg & Umgebung.
+      - generic [ref=e275]:
+        - iframe [ref=e276]
+        - link "Zur Karte" [ref=e277] [cursor=pointer]:
+          - /url: https://www.openstreetmap.org/?mlat=53.4736&mlon=10.3933#map=15/53.4736/10.3933
+          - img [ref=e278]
+          - text: Zur Karte
+  - contentinfo [ref=e280]:
+    - generic [ref=e281]:
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - link "HHS-Gutachten Logo HHS-Gutachten" [ref=e284] [cursor=pointer]:
+            - /url: "#top"
+            - img "HHS-Gutachten Logo" [ref=e285]
+            - generic [ref=e286]: HHS-Gutachten
+          - paragraph [ref=e287]: Unabhängiger Sachverständiger für Unfall- und Schadengutachten in Hamburg, Schleswig-Holstein und Niedersachsen.
+        - generic [ref=e288]:
+          - heading "Navigation" [level=3] [ref=e289]
+          - list [ref=e290]:
+            - listitem [ref=e291]:
+              - link "Start" [ref=e292] [cursor=pointer]:
+                - /url: "#top"
+            - listitem [ref=e293]:
+              - link "Unfall? Was tun?" [ref=e294] [cursor=pointer]:
+                - /url: "#ablauf"
+            - listitem [ref=e295]:
+              - link "Leistungen" [ref=e296] [cursor=pointer]:
+                - /url: "#leistungen"
+            - listitem [ref=e297]:
+              - link "Ablauf" [ref=e298] [cursor=pointer]:
+                - /url: "#ablauf"
+            - listitem [ref=e299]:
+              - link "Über uns" [ref=e300] [cursor=pointer]:
+                - /url: "#ueber-uns"
+            - listitem [ref=e301]:
+              - link "Kontakt" [ref=e302] [cursor=pointer]:
+                - /url: "#kontakt"
+        - generic [ref=e303]:
+          - heading "Leistungen" [level=3] [ref=e304]
+          - list [ref=e305]:
+            - listitem [ref=e306]: Unfallgutachten
+            - listitem [ref=e307]: Schadengutachten
+            - listitem [ref=e308]: Kostenvoranschläge
+            - listitem [ref=e309]: Oldtimergutachten
+            - listitem [ref=e310]: Beweissicherung
+            - listitem [ref=e311]: Unterstützung im Schadensfall
+        - generic [ref=e312]:
+          - heading "Kontakt" [level=3] [ref=e313]
+          - list [ref=e314]:
+            - listitem [ref=e315]:
+              - link "040 30981087" [ref=e316] [cursor=pointer]:
+                - /url: tel:+494030981087
+            - listitem [ref=e317]:
+              - link "info@hhs-gutachten.de" [ref=e318] [cursor=pointer]:
+                - /url: mailto:info@hhs-gutachten.de
+            - listitem [ref=e319]: Am Grüppental 17
+            - listitem [ref=e320]: 21039 Escheburg
+            - listitem [ref=e321]: Auch per WhatsApp erreichbar
+        - generic [ref=e322]:
+          - heading "Rechtliches" [level=3] [ref=e323]
+          - list [ref=e324]:
+            - listitem [ref=e325]:
+              - link "Impressum" [ref=e326] [cursor=pointer]:
+                - /url: impressum.html
+            - listitem [ref=e327]:
+              - link "Datenschutz" [ref=e328] [cursor=pointer]:
+                - /url: datenschutz.html
+            - listitem [ref=e329]:
+              - link "AGB" [ref=e330] [cursor=pointer]:
+                - /url: agb.html
+      - generic [ref=e331]: © 2026 HHS-Gutachten. Alle Rechte vorbehalten.

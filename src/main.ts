@@ -6,6 +6,7 @@ import "@fontsource/manrope/600.css";
 import "@fontsource/manrope/700.css";
 import "@fontsource/manrope/800.css";
 import "./style.css";
+import { setCurrentYear } from "./footer";
 
 function setupMobileMenu(): void {
   const button = document.getElementById("menu-button");
@@ -38,3 +39,4 @@ function setupMobileMenu(): void {
 }
 
 setupMobileMenu();
+setCurrentYear();
