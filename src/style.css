@@ -265,10 +265,6 @@ button {
   @apply text-white/78 hover:text-white;
 }
 
-.footer-social {
-  @apply flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-white/90 hover:border-white/45 hover:bg-white/10;
-}
-
 @media (max-width: 1023px) {
   .hero-title {
     font-size: clamp(2.6rem, 6.7vw, 4rem);
